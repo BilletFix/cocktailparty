@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #ff4a6e;
+  color: #E69D03;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -33,7 +33,7 @@ iframe {
 }
 #bios span {
   display: block;
-  color: #ff4a6e;
+  color: #E69D03;
   line-height: 1.8em;
 }
 #bios i {
@@ -51,7 +51,7 @@ iframe {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -63,7 +63,7 @@ iframe {
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.4);
   border-color: rgba(255, 255, 255, 0.3); }
 
 @media screen and (min-width: 64em) {
@@ -88,7 +88,7 @@ iframe {
 .page-header {
   color: #fff;
   text-align: center;
-	background: linear-gradient(120deg, rgb(255, 74, 110), rgba(255, 74, 110, 0.6) ), url('../img/cocktail_head.jpg');
+	background: linear-gradient(120deg, rgb(179, 139, 54), rgba(179, 139, 54, 0.8) ), url('../img/mad_hatter.jpg') 0 -200px;
 	background-size: cover;
 }
 
@@ -145,7 +145,7 @@ iframe {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #ff4a6e; }
+  color: #E69D03; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
